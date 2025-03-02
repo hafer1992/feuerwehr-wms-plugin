@@ -1,0 +1,7 @@
+base   includeextern
+author Andreas Schultz
+email  andreas-schultz@gmx.de
+date   2024-09-23
+name   includeextern plugin
+desc   Functions to include pages of an extern DokuWiki page
+url    https://github.com/hafer1992/feuerwehr-wms-plugin
